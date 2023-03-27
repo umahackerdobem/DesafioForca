@@ -8,4 +8,5 @@
 - O jogo apresenta a mensagem de "jogo da forca" com traços onde o usuário pode digitar as letras até advinhar a palavra.
 - Após acertar a palavra, ele irá receber a mensagem de "Parabéns" na tela e o programa será encerrado.
   
- 
+ <div align="center">
+<img src="https://user-images.githubusercontent.com/89475607/228052318-75bfadfc-8b9f-4c90-beea-6200c349e681.png" width="300px"/>
